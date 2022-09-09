@@ -1,6 +1,6 @@
 # AdmissionControlWithPredictions
 Source codes for my MEng. dissertation titled 'Admission Control in Sliced Networks, Using Predictive Techniques".
-All the code in this repository was written/authored by Perose Mutombo Ngufor and is subject to copyright.
+All the code in this repository was written/authored by Perose Mutombo Ngufor in MATLAB and is subject to copyright.
 ----------------------------------------------------------------------------------------------------
 List of ADMISSION CONTROL ALGORITHMS FILES
 1. DECISIONmatrix.mlx
