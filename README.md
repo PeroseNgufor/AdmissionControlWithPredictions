@@ -27,7 +27,7 @@ It calles the functions 'training10days.m' and 'calculate_rmse.m'.
 
 ----------------------------------------------------------------------------------------------------
 
-RUNNING THE PREDICTION MODEL
+RUNNING THE PREDICTIVE MODEL
 
 1. The dataset containing the bandwidth to be predicted is held in the file 'PredictionData312.mat'
 
